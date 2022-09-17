@@ -23,7 +23,7 @@ int depth(const binary_tree_t *tree)
 /**
 * is_perfect - aux function that checks if a binary tree is perfect.
 * @tree: pointer to the root node of the tree to check.
-* @depth_count: counter of depth.
+* @depth_c: counter of depth.
 * @layer: to check to the final layer.
 * Return: 0 || 1.
 */
